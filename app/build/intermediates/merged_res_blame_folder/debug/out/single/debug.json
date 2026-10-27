@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/layout_item_search_result.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/layout/item_search_result.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_bg_rounded_convite_para_planejar_roteiro.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/bg_rounded_convite_para_planejar_roteiro.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_ic_sliders.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/ic_sliders.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_ic_store.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/ic_store.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_ic_check_circle.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/ic_check_circle.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_ic_menu.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_ic_landmark.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/ic_landmark.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/layout_dialog_roteiro.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/layout/dialog_roteiro.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_gradient_contraste_da_imagem_0.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/gradient_contraste_da_imagem_0.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_ic_map_pin.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/ic_map_pin.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_bg_rounded_selo_de_inspira__o.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/bg_rounded_selo_de_inspira__o.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_ic_close.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_bg_drag_handle.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/bg_drag_handle.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/layout_bottom_sheet_detail.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/layout/bottom_sheet_detail.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_ic_arrow_right.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/ic_arrow_right.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_ic_ticket.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/ic_ticket.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_bg_rounded_filtro.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/bg_rounded_filtro.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_bg_rounded_a__o_principal.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/bg_rounded_a__o_principal.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_bg_rounded__cone_da_categoria.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/bg_rounded__cone_da_categoria.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_ic_route.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/ic_route.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_ic_sun.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/ic_sun.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_bg_rounded.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/bg_rounded.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_bg_rounded_busca.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/bg_rounded_busca.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_ic_heart.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/ic_heart.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_ic_bed.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/ic_bed.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_ic_arrow_up_right.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/ic_arrow_up_right.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_ic_medical.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/ic_medical.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_bg_rounded_categoria.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/bg_rounded_categoria.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/layout_dialog_favoritos.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/layout/dialog_favoritos.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_bg_rounded_destaque_de_descoberta.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/bg_rounded_destaque_de_descoberta.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_bg_rounded_s_mbolo_da_orienta__o.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/bg_rounded_s_mbolo_da_orienta__o.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_bg_bottom_sheet.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/bg_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_ic_utensils.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/ic_utensils.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_ic_search.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/layout_activity_main.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_ic_camera.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/ic_camera.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_bg_rounded_atra__o.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/bg_rounded_atra__o.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_ic_map.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/ic_map.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_ic_compass.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/ic_compass.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_ic_vector.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/ic_vector.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_ic_waves.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/ic_waves.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_ic_heart_filled.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/ic_heart_filled.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_ic_sparkles.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/ic_sparkles.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_bg_rounded_s_mbolo.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/bg_rounded_s_mbolo.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-merged_res-4:/drawable_ic_grid.xml.flat",
+        "source": "com.exploreolimpia.app-main-6:/drawable/ic_grid.xml"
+    }
+]

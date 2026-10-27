@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Palette (Explore Olímpia - Figma) -->
+    <color name="brand_primary">#FF007F82</color>
+    <color name="brand_primary_dark">#FF075E63</color>
+    <color name="brand_dark_title">#FF163D40</color>
+    <color name="brand_text_muted">#FF647B7B</color>
+    <color name="brand_accent_yellow">#FFFFCF67</color>
+    <color name="brand_teal_light">#FFE8F5F2</color>
+    <color name="brand_teal_border">#FFD2EBE7</color>
+    <color name="brand_teal_subtle">#FFDAE8E4</color>
+    <color name="brand_bg_page">#FFFAFCFA</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_transparent_10">#1AFFFFFF</color>
+    <color name="white_transparent_20">#33FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="card_stroke">#15075E63</color>
+
+    <!-- Legacy / Figma Compat Colors -->
+    <color name="color_0_127_130">#FF007F82</color>
+    <color name="color_7_94_99">#FF075E63</color>
+    <color name="color_22_61_64">#FF163D40</color>
+    <color name="color_100_123_123">#FF647B7B</color>
+    <color name="color_210_235_231">#FFD2EBE7</color>
+    <color name="color_218_232_228">#FFDAE8E4</color>
+    <color name="color_232_245_242">#FFE8F5F2</color>
+    <color name="color_250_252_250">#FFFAFCFA</color>
+    <color name="color_255_207_103">#FFFFCF67</color>
+</resources>

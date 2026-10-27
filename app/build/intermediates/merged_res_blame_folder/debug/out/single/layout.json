@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.exploreolimpia.app-mergeDebugResources-3:/layout/dialog_roteiro.xml",
+        "source": "com.exploreolimpia.app-main-6:/layout/dialog_roteiro.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-mergeDebugResources-3:/layout/dialog_favoritos.xml",
+        "source": "com.exploreolimpia.app-main-6:/layout/dialog_favoritos.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-mergeDebugResources-3:/layout/activity_main.xml",
+        "source": "com.exploreolimpia.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-mergeDebugResources-3:/layout/item_search_result.xml",
+        "source": "com.exploreolimpia.app-main-6:/layout/item_search_result.xml"
+    },
+    {
+        "merged": "com.exploreolimpia.app-mergeDebugResources-3:/layout/bottom_sheet_detail.xml",
+        "source": "com.exploreolimpia.app-main-6:/layout/bottom_sheet_detail.xml"
+    }
+]

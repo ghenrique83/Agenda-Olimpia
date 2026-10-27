@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/bg_bottom_sheet"
+    android:padding="20dp">
+
+    <!-- Drag Handle -->
+    <View
+        android:layout_width="40dp"
+        android:layout_height="4dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/bg_drag_handle" />
+
+    <!-- Header -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="PLANEJADOR DE ROTEIRO"
+                android:textColor="@color/brand_primary"
+                android:textSize="11sp"
+                android:textStyle="bold"
+                android:letterSpacing="0.05" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:text="3 Dias em Olímpia-SP"
+                android:textColor="@color/brand_dark_title"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <FrameLayout
+            android:id="@+id/btnCloseRoteiro"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:background="@drawable/bg_rounded_filtro"
+            android:clickable="true"
+            android:focusable="true">
+            <ImageView
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:layout_gravity="center"
+                android:src="@drawable/ic_close"
+                app:tint="@color/brand_dark_title"
+                android:contentDescription="Fechar" />
+        </FrameLayout>
+    </LinearLayout>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:maxHeight="440dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- DIA 1 -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_rounded_destaque_de_descoberta"
+                android:orientation="vertical"
+                android:padding="14dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg_rounded_filtro"
+                    android:paddingHorizontal="8dp"
+                    android:paddingVertical="3dp"
+                    android:text="DIA 1: ADRENALINA &amp; ÁGUAS QUENTES"
+                    android:textColor="@color/brand_primary"
+                    android:textSize="10sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="6dp"
+                    android:text="Thermas dos Laranjais + Polo Gastronômico"
+                    android:textColor="@color/brand_dark_title"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="4dp"
+                    android:text="• Manhã e Tarde: Passe o dia inteiro no Thermas dos Laranjais curtindo a Montanha-Russa Aquática, a piscina de surfe e o Lendário.\n• Noite: Jantar acolhedor na Av. Aurora Forti Neves em um restaurante caipira com fogão a lenha ou choperia."
+                    android:textColor="@color/brand_text_muted"
+                    android:textSize="12sp"
+                    android:lineSpacingExtra="2dp" />
+            </LinearLayout>
+
+            <!-- DIA 2 -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bg_rounded_destaque_de_descoberta"
+                android:orientation="vertical"
+                android:padding="14dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg_rounded_filtro"
+                    android:paddingHorizontal="8dp"
+                    android:paddingVertical="3dp"
+                    android:text="DIA 2: RELAX TOTAL &amp; CULTURA NOTURNA"
+                    android:textColor="@color/brand_primary"
+                    android:textSize="10sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="6dp"
+                    android:text="Hot Beach Olímpia + Vila Guarani"
+                    android:textColor="@color/brand_dark_title"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="4dp"
+                    android:text="• Manhã e Tarde: Relaxe na praia artificial com areia de verdade do Hot Beach, no rio lento Eba River e nas piscinas térmicas com cabanas privativas.\n• Noite: Passeio pela Vila Guarani com apresentações culturais ao vivo, artesanato local e gastronomia."
+                    android:textColor="@color/brand_text_muted"
+                    android:textSize="12sp"
+                    android:lineSpacingExtra="2dp" />
+            </LinearLayout>
+
+            <!-- DIA 3 -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bg_rounded_destaque_de_descoberta"
+                android:orientation="vertical"
+                android:padding="14dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg_rounded_filtro"
+                    android:paddingHorizontal="8dp"
+                    android:paddingVertical="3dp"
+                    android:text="DIA 3: FOLCLORE, HISTÓRIA &amp; TEMÁTICOS"
+                    android:textColor="@color/brand_primary"
+                    android:textSize="10sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="6dp"
+                    android:text="Vale dos Dinossauros + Museu de Cera + Recinto"
+                    android:textColor="@color/brand_dark_title"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="4dp"
+                    android:text="• Manhã: Conheça os dinossauros animatrônicos no Vale dos Dinossauros e tire fotos com celebridades no Dreamland Museu de Cera.\n• Tarde: Visite o Recinto do Folclore Prof. José Sant'anna e o Museu de História e Folclore Maria Olímpia.\n• Final de Tarde: Compras de doces caseiros, compotas e lembrancinhas no centro."
+                    android:textColor="@color/brand_text_muted"
+                    android:textSize="12sp"
+                    android:lineSpacingExtra="2dp" />
+            </LinearLayout>
+
+            <!-- CHECKLIST INTERATIVO -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="CHECKLIST PARA A VIAGEM:"
+                android:textColor="@color/brand_dark_title"
+                android:textSize="13sp"
+                android:textStyle="bold" />
+
+            <CheckBox
+                android:id="@+id/cbCheck1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:text="Comprar ingressos antecipados para os parques termais"
+                android:textSize="12.5sp"
+                android:textColor="@color/brand_dark_title" />
+
+            <CheckBox
+                android:id="@+id/cbCheck2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Levar protetor solar, óculos escuros e sapatilha aquática"
+                android:textSize="12.5sp"
+                android:textColor="@color/brand_dark_title" />
+
+            <CheckBox
+                android:id="@+id/cbCheck3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Reservar hospedagem com acesso ou desconto aos parques"
+                android:textSize="12.5sp"
+                android:textColor="@color/brand_dark_title" />
+
+            <CheckBox
+                android:id="@+id/cbCheck4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Conferir a programação do Festival do Folclore (agosto)"
+                android:textSize="12.5sp"
+                android:textColor="@color/brand_dark_title" />
+
+            <Button
+                android:id="@+id/btnOkRoteiro"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_marginTop="18dp"
+                android:layout_marginBottom="10dp"
+                android:text="Entendido, Salvar Roteiro!"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:backgroundTint="@color/brand_primary"
+                app:cornerRadius="12dp" />
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+</LinearLayout>

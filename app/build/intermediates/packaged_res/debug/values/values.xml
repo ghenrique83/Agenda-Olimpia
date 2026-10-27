@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="brand_accent_yellow">#FFFFCF67</color>
+    <color name="brand_bg_page">#FFFAFCFA</color>
+    <color name="brand_dark_title">#FF163D40</color>
+    <color name="brand_primary">#FF007F82</color>
+    <color name="brand_primary_dark">#FF075E63</color>
+    <color name="brand_teal_border">#FFD2EBE7</color>
+    <color name="brand_teal_light">#FFE8F5F2</color>
+    <color name="brand_teal_subtle">#FFDAE8E4</color>
+    <color name="brand_text_muted">#FF647B7B</color>
+    <color name="card_stroke">#15075E63</color>
+    <color name="color_0_127_130">#FF007F82</color>
+    <color name="color_100_123_123">#FF647B7B</color>
+    <color name="color_210_235_231">#FFD2EBE7</color>
+    <color name="color_218_232_228">#FFDAE8E4</color>
+    <color name="color_22_61_64">#FF163D40</color>
+    <color name="color_232_245_242">#FFE8F5F2</color>
+    <color name="color_250_252_250">#FFFAFCFA</color>
+    <color name="color_255_207_103">#FFFFCF67</color>
+    <color name="color_7_94_99">#FF075E63</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_transparent_10">#1AFFFFFF</color>
+    <color name="white_transparent_20">#33FFFFFF</color>
+    <string name="acao_explorar">Explorar</string>
+    <string name="app_name">Explore Olímpia</string>
+    <string name="assinatura">SEU GUIA DE DESCOBERTAS</string>
+    <string name="cat_eventos">Eventos</string>
+    <string name="cat_eventos_sub">Viva novos encontros</string>
+    <string name="cat_feiras">Feiras</string>
+    <string name="cat_feiras_sub">Encontros e achados</string>
+    <string name="cat_gastronomia">Gastronomia</string>
+    <string name="cat_gastronomia_sub">Sabores para conhecer</string>
+    <string name="cat_hoteis">Hotéis e pousadas</string>
+    <string name="cat_hoteis_sub">Seu lugar para ficar</string>
+    <string name="cat_lembrancas">Lembranças (museus)</string>
+    <string name="cat_lembrancas_sub">Histórias e memórias</string>
+    <string name="cat_parques">Parques</string>
+    <string name="cat_parques_sub">Diversão e descanso</string>
+    <string name="cat_pontos_turisticos">Pontos turísticos</string>
+    <string name="cat_pontos_turisticos_sub">Olhe a cidade de perto</string>
+    <string name="cat_servicos">Serviços essenciais</string>
+    <string name="cat_servicos_sub">Apoio para sua viagem</string>
+    <string name="cidade">Olímpia, São Paulo</string>
+    <string name="convite">Seu próximo destino.\nDo seu jeito.</string>
+    <string name="hero_link">Comece pelos parques</string>
+    <string name="hero_titulo">Um mergulho em\nnovas descobertas.</string>
+    <string name="introducao">Conheça Olímpia entre passeios, sabores e memórias. Encontre inspiração para viver a cidade no seu ritmo.</string>
+    <string name="marca">Explore Olímpia</string>
+    <string name="nav_explorar">Explorar</string>
+    <string name="nav_favoritos">Favoritos</string>
+    <string name="nav_inicio">Início</string>
+    <string name="nav_roteiro">Roteiro</string>
+    <string name="rodape_aviso">Antes de visitar, confirme disponibilidade e informações diretamente com os locais.</string>
+    <string name="rodape_frase">Mais que um destino. Novas histórias para contar.</string>
+    <string name="rodape_marca">Explore Olímpia</string>
+    <string name="roteiro_badge">SUA VIAGEM, SUAS ESCOLHAS</string>
+    <string name="roteiro_btn">Começar meu roteiro</string>
+    <string name="roteiro_dica1_desc">Combine passeios, sabores e cultura.</string>
+    <string name="roteiro_dica1_tit">Escolha o que te encanta</string>
+    <string name="roteiro_dica2_desc">Deixe espaço para pausas e descobertas.</string>
+    <string name="roteiro_dica2_tit">Encontre seu ritmo</string>
+    <string name="roteiro_dica3_desc">Confira informações antes de sair.</string>
+    <string name="roteiro_dica3_tit">Cuide dos detalhes</string>
+    <string name="roteiro_subtitulo">Transforme suas inspirações em um plano para conhecer Olímpia.</string>
+    <string name="roteiro_titulo">Um roteiro com\na sua cara.</string>
+    <string name="secao_atracoes_desc">Conheça as principais atrações da cidade e planeje sua visita.</string>
+    <string name="secao_atracoes_sub">PONTOS TURÍSTICOS</string>
+    <string name="secao_atracoes_tit">O que ver em Olímpia</string>
+    <string name="secao_categorias_desc">Escolha um tema e encontre seu caminho.</string>
+    <string name="secao_categorias_sub">MUITOS JEITOS DE EXPLORAR</string>
+    <string name="secao_categorias_tit">O que combina com você?</string>
+    <string name="secao_destaques_desc">Dos pequenos prazeres aos cuidados que fazem a viagem acontecer.</string>
+    <string name="secao_destaques_sub">INSPIRE SEU PASSEIO</string>
+    <string name="secao_destaques_tit">Descobertas para levar com você</string>
+    <string name="selo">VONTADE DE VIAJAR</string>
+    <string name="sugestao_busca">O que você quer descobrir?</string>
+    <style name="CustomBottomSheetDialog" parent="Theme.Material3.DayNight.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/CustomBottomSheetStyle</item>
+    </style>
+    <style name="CustomBottomSheetStyle" parent="Widget.Material3.BottomSheet">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="shapeAppearance">@style/ShapeAppearance.App.LargeComponent</item>
+    </style>
+    <style name="ShapeAppearance.App.LargeComponent" parent="ShapeAppearance.Material3.LargeComponent">
+        <item name="cornerSizeTopLeft">24dp</item>
+        <item name="cornerSizeTopRight">24dp</item>
+        <item name="cornerSizeBottomLeft">0dp</item>
+        <item name="cornerSizeBottomRight">0dp</item>
+    </style>
+    <style name="Theme.ExploreOlimpia" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/brand_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/brand_teal_light</item>
+        <item name="colorOnPrimaryContainer">@color/brand_dark_title</item>
+        
+        <item name="colorSecondary">@color/brand_primary_dark</item>
+        <item name="colorOnSecondary">@color/white</item>
+        
+        <item name="android:statusBarColor">@color/brand_bg_page</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowBackground">@color/brand_bg_page</item>
+    </style>
+</resources>

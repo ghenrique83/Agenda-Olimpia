@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Explore Olímpia</string>
+    <string name="cidade">Olímpia, São Paulo</string>
+    <string name="marca">Explore Olímpia</string>
+    <string name="assinatura">SEU GUIA DE DESCOBERTAS</string>
+    <string name="convite">Seu próximo destino.\nDo seu jeito.</string>
+    <string name="introducao">Conheça Olímpia entre passeios, sabores e memórias. Encontre inspiração para viver a cidade no seu ritmo.</string>
+    <string name="sugestao_busca">O que você quer descobrir?</string>
+    <string name="selo">VONTADE DE VIAJAR</string>
+    <string name="hero_titulo">Um mergulho em\nnovas descobertas.</string>
+    <string name="hero_link">Comece pelos parques</string>
+    
+    <string name="secao_categorias_sub">MUITOS JEITOS DE EXPLORAR</string>
+    <string name="secao_categorias_tit">O que combina com você?</string>
+    <string name="secao_categorias_desc">Escolha um tema e encontre seu caminho.</string>
+    
+    <!-- Categorias -->
+    <string name="cat_gastronomia">Gastronomia</string>
+    <string name="cat_gastronomia_sub">Sabores para conhecer</string>
+    <string name="cat_parques">Parques</string>
+    <string name="cat_parques_sub">Diversão e descanso</string>
+    <string name="cat_feiras">Feiras</string>
+    <string name="cat_feiras_sub">Encontros e achados</string>
+    <string name="cat_hoteis">Hotéis e pousadas</string>
+    <string name="cat_hoteis_sub">Seu lugar para ficar</string>
+    <string name="cat_eventos">Eventos</string>
+    <string name="cat_eventos_sub">Viva novos encontros</string>
+    <string name="cat_servicos">Serviços essenciais</string>
+    <string name="cat_servicos_sub">Apoio para sua viagem</string>
+    <string name="cat_pontos_turisticos">Pontos turísticos</string>
+    <string name="cat_pontos_turisticos_sub">Olhe a cidade de perto</string>
+    <string name="cat_lembrancas">Lembranças (museus)</string>
+    <string name="cat_lembrancas_sub">Histórias e memórias</string>
+    
+    <!-- Destaques -->
+    <string name="secao_destaques_sub">INSPIRE SEU PASSEIO</string>
+    <string name="secao_destaques_tit">Descobertas para levar com você</string>
+    <string name="secao_destaques_desc">Dos pequenos prazeres aos cuidados que fazem a viagem acontecer.</string>
+    
+    <!-- Atrações -->
+    <string name="secao_atracoes_sub">PONTOS TURÍSTICOS</string>
+    <string name="secao_atracoes_tit">O que ver em Olímpia</string>
+    <string name="secao_atracoes_desc">Conheça as principais atrações da cidade e planeje sua visita.</string>
+    
+    <!-- Roteiro -->
+    <string name="roteiro_badge">SUA VIAGEM, SUAS ESCOLHAS</string>
+    <string name="roteiro_titulo">Um roteiro com\na sua cara.</string>
+    <string name="roteiro_subtitulo">Transforme suas inspirações em um plano para conhecer Olímpia.</string>
+    <string name="roteiro_dica1_tit">Escolha o que te encanta</string>
+    <string name="roteiro_dica1_desc">Combine passeios, sabores e cultura.</string>
+    <string name="roteiro_dica2_tit">Encontre seu ritmo</string>
+    <string name="roteiro_dica2_desc">Deixe espaço para pausas e descobertas.</string>
+    <string name="roteiro_dica3_tit">Cuide dos detalhes</string>
+    <string name="roteiro_dica3_desc">Confira informações antes de sair.</string>
+    <string name="roteiro_btn">Começar meu roteiro</string>
+    
+    <!-- Rodapé -->
+    <string name="rodape_marca">Explore Olímpia</string>
+    <string name="rodape_frase">Mais que um destino. Novas histórias para contar.</string>
+    <string name="rodape_aviso">Antes de visitar, confirme disponibilidade e informações diretamente com os locais.</string>
+    
+    <!-- Bottom Nav -->
+    <string name="nav_inicio">Início</string>
+    <string name="nav_explorar">Explorar</string>
+    <string name="nav_roteiro">Roteiro</string>
+    <string name="nav_favoritos">Favoritos</string>
+
+    <string name="acao_explorar">Explorar</string>
+</resources>
